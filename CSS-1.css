@@ -11,6 +11,7 @@ body {
 h3 {
     color: bisque;
     text-decoration: underline;
+    font-size: x-large;
 }
 
 h1 {
@@ -103,5 +104,52 @@ h2 {
 
 #wingspictures {
     display: inline-block;
+}
 
+.albums {
+    border-style: double;
+    border-color: brown;
+    margin-left: 65px;
+    margin-top: 65px;
+    background-color: bisque;
+}
+
+#picture-background {
+    background-color: bisque;
+}
+
+#john-background {
+    background-color: rosybrown;
+}
+
+li {
+    color: brown;
+}
+
+table,
+th,
+td,
+tr {
+    border: 1px solid;
+    border-color: beige;
+    color: beige;
+    background-color: brown;
+}
+
+#john-pictures {
+    text-align: center;
+    background-color: bisque;
+}
+
+#george-background {
+    background-color: darkgoldenrod;
+
+}
+
+.george-color {
+    background-color: brown;
+}
+
+#ringo-background {
+    background-color: olive;
 }
